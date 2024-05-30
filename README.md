@@ -13,9 +13,3 @@ This project develops a sophisticated movie recommendation system designed to pe
 - TensorFlow - For building and training the recommendation model
 - Pandas - For data manipulation
 - NumPy - For numerical operations
-
-## Getting Started
-These instructions will guide you to get the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-Ensure you have the following installed:
